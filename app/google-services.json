@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17577070015",
+    "project_id": "vording-app",
+    "storage_bucket": "vording-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17577070015:android:14c8a76a2ae4315b38a50a",
+        "android_client_info": {
+          "package_name": "com.cms.votingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17577070015-u5rpb9cepg99tcatjlmpnhrishooojan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvdzG31LRlKv3-oNcqKsjkXUwXNecMeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17577070015-u5rpb9cepg99tcatjlmpnhrishooojan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VotingApp</string>
+    <string name="candidate_one">Candidate_one</string>
+    <string name="candidate_two">Candidate_two</string>
+    <string name="candidate_three">Candidate_three</string>
+    <string name="candidate_four">Candidate_Four</string>
+</resources>
